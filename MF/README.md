@@ -1,3 +1,5 @@
+[velog](https://velog.io/@yst3147/MF-Recsys)
+
 ## Abstract
 
 - Matrix Factorization model은 기존 nearest-neighbor 기법보다 제품 추천에서 우수하다.
