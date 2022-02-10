@@ -1,4 +1,5 @@
-[velog](https://velog.io/@yst3147/MF-Recsys)
+# [Recsys Paper Review] Matrix Factorization Techniques for Recommender Systems
+[velog link](https://velog.io/@yst3147/MF-Recsys)
 
 ## Abstract
 
